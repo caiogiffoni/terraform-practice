@@ -7,3 +7,4 @@ linux-macos-credenciais-aws.txt
 *.out
 *.info
 aws-key*
+azure-key*
