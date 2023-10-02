@@ -4,7 +4,7 @@ Terraform Practice
 
 ## 💻 Projeto
 
-Treinamento do terraform para AWS e Azure
+Treinamento do curso de terraform para AWS e Azure
 
 ## 🔨 Implementações
 
